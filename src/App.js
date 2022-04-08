@@ -6,7 +6,7 @@ export default function App() {
     <div>
       <h1>Hello StackBlitz!</h1>
       <div id="paralex">
-        <img src={} alt="Hello world" />
+        <img src={} alt="Hello world" /> 
       </div>
       <p>Start editing to see some magic happen :)</p>
     </div>
